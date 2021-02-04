@@ -1,0 +1,53 @@
+.main-header{
+  display: flex;
+  align-items: center;
+  height: 6.6vh;
+}
+
+.head-logo{
+  font-family: 'arial black';
+  font-size: 20px;
+  width: 49vw;
+  display: flex;
+}
+
+.city{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: rgb(2, 154, 226);
+  margin-right:1px;
+  margin-left: 10px;
+}
+
+.lab{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: rgb(48, 208, 237);
+}
+
+.head-menu-lists{
+  width: 38vw;
+}
+
+.head-menu{
+  font-family: "ヒラギノ角ゴ Pro W6";
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+  margin-right: 20px;
+}
+
+.head-contactform{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "ヒラギノ角ゴ Pro W6";
+  background-color:rgb(47, 208, 237);
+  height: 6.6vh;
+  width: 12.5vw;
+}
+
+.contactform{
+  color: white;
+  text-decoration: none;
+}
