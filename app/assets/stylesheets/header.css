@@ -6,14 +6,13 @@
 
 .head-logo{
   font-family: 'arial black';
-  font-size: 20px;
   width: 49vw;
   display: flex;
 }
 
 .city{
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
+  font-size: 3vh;
   color: rgb(2, 154, 226);
   margin-right:1px;
   margin-left: 10px;
@@ -21,12 +20,13 @@
 
 .lab{
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
+  font-size: 3vh;
   color: rgb(48, 208, 237);
 }
 
 .head-menu-lists{
-  width: 38vw;
+  text-align: center;
+  width: 38.5vw;
 }
 
 .head-menu{
@@ -34,7 +34,7 @@
   text-decoration: none;
   color: black;
   font-size: 2vh;
-  margin-right: 2vh;
+  margin-right: 1.5vh;
 }
 
 .head-contactform{
@@ -45,6 +45,7 @@
   background-color:rgb(47, 208, 237);
   height: 6.6vh;
   width: 12.5vw;
+
 }
 
 .contactform{
