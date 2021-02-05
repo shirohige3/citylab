@@ -1,3 +1,28 @@
 .image-tg{
-  background-color: blue;
+  height: 56vh;
+  text-align: center;
+  /* align-items: center; */
+  background-image: url(city.jpg); /* 背景画像 */
+  background-repeat: no-repeat;    /* 背景画像繰り返さない */
+  background-size:cover ;          /* 背景画像サイズ */
+}
+
+.corporate-name,.corporate-name2{
+  background-color: violet;
+  height: 15vh;
+  width: 43vw;
+  color: white;
+  font-family: "Cormorant";
+  font-size: 14vh;
+  margin: auto;
+  /* margin-left: auto; */
+  /* margin-left: auto; */
+}
+
+.corporate-name{
+  
+}
+
+.corporate-name2{
+  background-color: turquoise;
 }
