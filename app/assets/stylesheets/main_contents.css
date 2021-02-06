@@ -1,6 +1,6 @@
 
 .image-tg{
-  height: 56vh;
+  height: 60.5vh;
   width: 100%;
   text-align: center;
   background-image: url(city.jpg); /* 背景画像 */
@@ -34,4 +34,72 @@
   top: 50%;
   left: 30%;
   transform: translateY(-60%);
+}
+
+.infometion{
+  display: flex;
+  background-color: rgb(224, 236, 240);
+  justify-content: center;
+  align-items: center;
+  height: 24vh;
+}
+
+.news-block{
+  display: block;
+  align-items: center;
+  margin-right: 5vh;
+}
+
+.news{
+  font-family: 'Open Sans', sans-serif;
+  color: rgb(1, 155, 223);
+  font-size: 4vh ;
+}
+
+.infometion-index{
+text-decoration: none;
+color: rgb(51, 51, 51);
+font-size: 1vh;
+font-family: "ヒラギノ角ゴ Pro W6";
+}
+
+.infometion-lists{
+  display: block;
+  
+}
+
+.infometion-list{
+  height: 4vh;
+  display: flex;
+  align-items: center;
+  margin-top: 4.5px;
+  border-bottom: 1px solid rgb(1, 155, 223);
+}
+
+.info-message{
+  text-decoration: none;
+  color: rgb(51, 51, 51);
+}
+
+.created-at,.news-icon{
+  margin-right: 3vh;
+  font-family: "ヒラギノ角ゴ Pro W6";
+  color: rgb(51, 51, 51);
+  font-size: 12px;
+}
+
+.news-icon{
+  height:18px ;
+  width: 8vw;
+  font-size: 12px;
+  background-color: rgb(1, 155, 223);
+  color: white;
+  text-align: center;
+  align-items: center;
+}
+
+.info-message{
+  font-family: "ヒラギノ角ゴ Pro W6";
+  color: rgb(51, 51, 51);
+  font-size: 12px;
 }
