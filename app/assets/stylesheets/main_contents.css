@@ -15,7 +15,6 @@
   color: white;
   font-family: "Cormorant";
   font-size: 14vh;
-  /* margin: auto; */
 }
 
 .corporate-name{
@@ -101,4 +100,22 @@ font-family: "ヒラギノ角ゴ ProN W1";
   font-family: "ヒラギノ角ゴ ProN W1";
   color: rgb(51, 51, 51);
   font-size: 12px;
+}
+
+.main-contents-under{
+  text-align: center;
+  margin-top: 4.5vh;
+}
+
+.service-index,.service-index-under{
+  color: rgb(1, 155, 223);
+  font-family: 'Open Sans', sans-serif;
+}
+
+.service-index{
+  font-size: 4vh;
+}
+
+.service-index-under{
+  font-size: 1.4vh;
 }
