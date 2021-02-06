@@ -30,10 +30,10 @@
 }
 
 .head-menu{
-  font-family: "ヒラギノ角ゴ Pro W6";
+  font-family: "ヒラギノ角ゴ ProN W1";
   text-decoration: none;
   color: black;
-  font-size: 2vh;
+  font-size: 1vh;
   margin-right: 1.5vh;
 }
 
@@ -41,7 +41,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: "ヒラギノ角ゴ Pro W6";
+  font-family: "ヒラギノ角ゴ ProN W1";
   background-color:rgb(47, 208, 237);
   height: 6.6vh;
   width: 12.5vw;
@@ -51,4 +51,5 @@
 .contactform{
   color: white;
   text-decoration: none;
+  font-size: 1vh;
 }

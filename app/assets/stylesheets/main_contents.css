@@ -26,7 +26,7 @@
   color: white;
   font-size: 2.5vh;
   margin-top: 3.5vh;
-  font-family: "ヒラギノ角ゴ Pro W6";
+  font-family: "ヒラギノ角ゴ ProN W1";
 }
 
 .name{
@@ -45,9 +45,8 @@
 }
 
 .news-block{
-  display: block;
-  align-items: center;
   margin-right: 5vh;
+  padding-bottom: 5vh;
 }
 
 .news{
@@ -60,7 +59,7 @@
 text-decoration: none;
 color: rgb(51, 51, 51);
 font-size: 1vh;
-font-family: "ヒラギノ角ゴ Pro W6";
+font-family: "ヒラギノ角ゴ ProN W1";
 }
 
 .infometion-lists{
@@ -83,7 +82,7 @@ font-family: "ヒラギノ角ゴ Pro W6";
 
 .created-at,.news-icon{
   margin-right: 3vh;
-  font-family: "ヒラギノ角ゴ Pro W6";
+  font-family: "ヒラギノ角ゴ ProN W1";
   color: rgb(51, 51, 51);
   font-size: 12px;
 }
@@ -99,7 +98,7 @@ font-family: "ヒラギノ角ゴ Pro W6";
 }
 
 .info-message{
-  font-family: "ヒラギノ角ゴ Pro W6";
+  font-family: "ヒラギノ角ゴ ProN W1";
   color: rgb(51, 51, 51);
   font-size: 12px;
 }
