@@ -1,12 +1,12 @@
 # README
-
-##参考にさせて頂いたサイト
-https://webdesigner-go.com/template/psd-corporate/
-
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
+
+
+## 参考にさせて頂いたサイト
+https://webdesigner-go.com/template/psd-corporate/
 
 * Ruby version
 
